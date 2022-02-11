@@ -6,7 +6,7 @@ font-family: Arial, Helvetica, sans-serif;
 }
 
 .main{
-    background-image: url("/images/maxresdefault.jpg");
+    background-image: url("./images/maxresdefault.jpg");
     width: 1329px;
     height: 700px;
     background-repeat: no-repeat;
@@ -115,7 +115,7 @@ i{
 
 
 .second{
-    background-image: url("/images/1aeeeb6a4dfe4d7c1251791059089cb8jpg.jpeg");
+    background-image: url("./images/1aeeeb6a4dfe4d7c1251791059089cb8jpg.jpeg");
     width: 1375px;
     height: 700px;
     background-repeat: no-repeat;
@@ -222,7 +222,7 @@ i{
 }
 
 .four{
-    background-image: url("/images/pop4.jpg");
+    background-image: url("./images/pop4.jpg");
     width: 1348px;
     height: 900px;
     background-repeat: no-repeat;
@@ -266,7 +266,7 @@ i{
 
 
 .pic1{
-    background-image: url("/images/b62dcb77a866631bdc0dd6cbecfb88a8jpg.jpeg");
+    background-image: url("./images/b62dcb77a866631bdc0dd6cbecfb88a8jpg.jpeg");
     background-size: contain;
     width: 380px;
     height: 250px;
@@ -274,7 +274,7 @@ i{
     float: left;
 }
 .pic2{
-    background-image: url("/images/ad8d0c949d77cbcd2d26b03d662c5250jpg.jpeg");
+    background-image: url("./images/ad8d0c949d77cbcd2d26b03d662c5250jpg.jpeg");
     width: 380px;
     height: 250px;
     margin-left: 30px;
@@ -282,7 +282,7 @@ i{
     background-size: contain;
 }
 .pic3{
-    background-image: url("/images/b82da796471f3df94c7dd48d38b1373cjpg.jpeg");
+    background-image: url("./images/b82da796471f3df94c7dd48d38b1373cjpg.jpeg");
     width: 380px;
     height: 250px;
     margin-left: 30px;
